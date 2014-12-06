@@ -15,7 +15,7 @@ owner:
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook: https://www.facebook.com/groups/833728609982766/       
+  facebook: groups/833728609982766/       
   github:         
   stackexchange:  
   linkedin:       
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
