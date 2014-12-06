@@ -1,5 +1,5 @@
 title:            #emergenzehack
-description:      Luogo di incontro per chi a cuore problematiche della comunicazione per l'allerta legata alle emergenze.
+description:      La comunicazione legata alle emergenze si fa con i dati, il codice e un linguaggio umano.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -11,11 +11,11 @@ url: http://emergenzehack.github.io
 owner:
   name:           emergenzehack
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "La comunicazione legata alle emergenze si fa con i dati, il codice e un linguaggio umano"
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook: https://www.facebook.com/groups/833728609982766/       
   github:         
   stackexchange:  
   linkedin:       
