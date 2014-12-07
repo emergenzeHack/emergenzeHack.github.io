@@ -3,10 +3,9 @@
 
 <table>
  <tr>
- <td></td>
  <td> 
 vorrei dire che dovrebbe ormai essere evidente a tutti che il territorio del nostro paese (monti, colline, pianura, fiumi, città) è un enorme gigante che si sta sgretolando, dato anche il cambiamento climatico innegabile. dovremmo parlare di questo ogni mattina a colazione e ogni sera prima di dormire, dovremmo chiamare a raccolta i migliori giovani ingegneri, architetti, geometri e urbanisti, i migliori anziani memoria storica dei luoghi, per uscirne insieme. altrimenti non è neanche più fuffa, ma omicidio colposo.
-(post su facebook  a seguito dell’ultima alluvione di Genova)</td>
+(post di Luca ZAnelli sul profilo  facebook  a seguito dell’ultima alluvione di Genova)</td>
  </tr>
 </table>
 
