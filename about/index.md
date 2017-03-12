@@ -4,7 +4,6 @@ title: About
 image:
   feature: All2.jpg
 comments: false
-modified: 2016-02-01
 ---
 
 **Cosa è emergenzehack?**
