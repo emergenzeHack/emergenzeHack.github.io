@@ -10,7 +10,7 @@ url: http://emergenzehack.github.io
 # Owner/author information
 owner:
   name:           emergenzehack
-  avatar:         images/logo.png
+  avatar:         logo.png
   bio:            "La comunicazione legata alle emergenze si fa con i dati, il codice e un linguaggio umano"
   email:          emergenzehack@gmail.com
   # Social networking links used in footer. Update and remove as you like.
