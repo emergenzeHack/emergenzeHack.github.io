@@ -21,5 +21,6 @@ image:
 ### Si accettano solo FEED RSS (o similari) come formato dati da ricondividere. ###
 
 {% for pc in site.pc %}
-  <li><a href="{{ site.baseurl }}{{ pc.url }}">{{ pc.title }}</a></li>
+  <li><a href="{{ site.url }}{{ pc.url }}">{{ pc.title }}</a></li>
+  <li><a href="">{{ pc.title }}</a></li>
 {% endfor %}
