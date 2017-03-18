@@ -15,5 +15,6 @@ Per questo si rende necessario avere uno spazio dove definire quali siano questi
 **Cosa puoi fare tu?**
 
 Il progetto è ampiamente partecipato per cui chiunque può dare un suo contributo. Ecco come:
-- Se lo conosci puoi fornirci un FEED RSS di una protezione civile di un luogo;
-- ...
+- Se lo conosci puoi fornirci un FEED RSS di una protezione civile di un luogo vicino a te;
+- Se sai farlo puoi produrre tu un FEED RSS di una protezione civile partendo dagli aggiornamenti che la protezione civile fornisce sul suo sito web (se ne ha uno)
+- Riusare i dati ricordandoti che da questo progetto sono concessi con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
