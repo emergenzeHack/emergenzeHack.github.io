@@ -4,6 +4,7 @@ title: Protezioni Civili
 description: "tutti i feed delle protezioni civili italiane"
 tags: [emergenza, emergenzehack, protezioni-civili]
 comments: false
+permalink: /protezioni-civili/
 image:
   feature: All4.jpg
 ---
