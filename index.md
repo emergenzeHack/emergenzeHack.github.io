@@ -1,6 +1,6 @@
 ---
-layout: post-index
-title:
+layout: page
+title: EmergenzeHack
 description: "I dati dell'emergenza"
 tags: [emergenza, emergenzehack, smem]
 comments: false

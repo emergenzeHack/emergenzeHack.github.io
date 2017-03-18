@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: page
 title: Protezioni Civili
 description: "tutti i feed delle protezioni civili italiane"
 tags: [emergenza, emergenzehack, protezioni-civili]
@@ -8,7 +8,7 @@ image:
   feature: All4.jpg
 ---
 
-## Di seguito i riferimenti delle protezioni civili italiane di cui abbiamo i FEED degli aggiornamenti.Segnalaci quello del tuo comune o della tua città. ##
+## Di seguito i riferimenti delle protezioni civili italiane di cui abbiamo i FEED degli aggiornamenti. Segnalaci quello del tuo comune o della tua città. ##
 
 ## Se non hai trovato un feed rss perchè non è disponibile puoi comunque crearlo partendo da una pagina web del tuo comune. ##
 
