@@ -8,7 +8,7 @@ image:
   feature: All4.jpg
 ---
 
-# Questo è un progetto che nasce dalla cultura italiana "civic hacking". #
+# Questo è un progetto che nasce dalla cultura italiana dei "civic hackers". #
 
 # Questo è un progetto propositivo e non distruttivo. #
 
