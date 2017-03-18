@@ -1,8 +1,0 @@
-- ente: Protezione Civile Comune di Firenze
-  luogo: Firenze
-  formato:
-  - RSS
-  - ATOM
-  link:
-  - http://protezionecivile.comune.fi.it/?feed=rss2
-  - http://protezionecivile.comune.fi.it/?feed=atom

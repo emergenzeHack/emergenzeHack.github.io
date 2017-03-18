@@ -19,6 +19,7 @@ image:
 
 ## Se vuoi che gli aggiornamenti della tua protezione civile siano inseriti in questa lista ma non sai come creare il feed apri una segnalazione qui [qui](https://github.com/emergenzehack/emergenzeHack.github.io/issues/new). Cercheremo di darti le indicazioni per farlo. ##
 
-{% for prot in site.pc %}
-  <li><a href="{{ site.url }}{{ prot.url }}">{{ prot.title }}</a></li>
+{% for i in site.data.pc %}
+{% assign org = i[1] %}
+  {{ org.title }}
 {% endfor %}
