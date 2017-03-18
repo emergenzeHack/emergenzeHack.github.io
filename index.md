@@ -18,4 +18,4 @@ image:
 
 # Questo è un progetto opensource e a cui anche tu puoi dare una mano. #
 
-# Questo progetto non avrà canali di comunicazione se non un [gruppo Facebook](https://www.facebook.com/groups/833728609982766/?fref=ts) e una [mail](mailto:emergenzehack@gmail.com) ...il motivo è semplice: i canali potrai farli tu. #
+# Questo progetto non avrà canali di comunicazione se non questo [gruppo Facebook](https://www.facebook.com/groups/833728609982766/?fref=ts) e [questa mail](mailto:emergenzehack@gmail.com) ...il motivo è semplice: i canali potrai farli tu. #
