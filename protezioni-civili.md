@@ -19,5 +19,5 @@ image:
 ## Se non sai come creare il tuo feed apri un issue [qui](https://github.com/emergenzehack/emergenzeHack.github.io/issues/new). ##
 
 {% for prot in site.pc %}
-  [{{ prot.title }}]({{ site.url }}{{ prot.url }})
+  <li><a href="{{ site.url }}{{ prot.url }}">{{ prot.title }}</a></li>
 {% endfor %}

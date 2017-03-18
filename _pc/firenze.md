@@ -1,7 +1,7 @@
 ---
 layout: pc
 title: Protezione Civile di Firenze
-url: /pc-firenze
+url: /pc-firenze/
 tags: [toscana, firenze]
 formato: RSS
 feed: http://protezionecivile.comune.fi.it/?feed=rss2
