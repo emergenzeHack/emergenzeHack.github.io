@@ -13,7 +13,7 @@ image:
 
 ## Se non hai trovato un feed rss perchè non è disponibile puoi comunque crearlo partendo da una pagina web del tuo comune. ##
 
-## Una buona guida per farlo la trovi nel Wiki del progetto AlboPOP [qui](https://github.com/aborruso/albo-pop/wiki/Strumenti) ##
+## Una buona guida per farlo la trovi nel Wiki del progetto AlboPOP [qui](https://github.com/aborruso/albo-pop/wiki/Strumenti). ##
 
 ## Non appena lo hai trovato o creato segnalacelo [qui](https://github.com/emergenzehack/emergenzeHack.github.io/issues/new?title=%5Bfeed%20pc%5D). ##
 
