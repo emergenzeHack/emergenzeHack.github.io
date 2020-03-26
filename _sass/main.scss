@@ -48,7 +48,14 @@ body{
 	height:36px;
 }
 
-h3,h2 {
+.content h2 {
+	font-family: "Barlow";
+	font-size: 3rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.content h3 {
 	font-family: "Barlow";
 	font-size: 2rem;
 	letter-spacing: 2px;
