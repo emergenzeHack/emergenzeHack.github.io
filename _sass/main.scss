@@ -20,8 +20,8 @@ $family-sans-serif: "Inter", "Inter","Helvetica", "Arial", sans-serif;
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
-$primary: gray;
-$primary-invert: $pink-invert;
+$primary: #ddd;
+$primary-invert: #333;
 
 
 @import "../node_modules/bulma/bulma";
@@ -64,4 +64,13 @@ body{
 
 a {
 	color: black;
+}
+
+.italy{
+	position: relative;
+	align-self: center;
+	bottom: -10px;
+	height: 20px;
+	width: 250px;
+	background:linear-gradient(to right, #009246 0, #009246 33%, #FFF 33%, #FFF 66%, #ce2b37 66%, #ce2b37 100%); 
 }
