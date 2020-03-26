@@ -16,26 +16,69 @@ $blue: #06bcef;
 $pink: #ff8080;
 $pink-invert: #fff;
 // Update the sans-serif font family
-$family-sans-serif: monospace,"Inter","Helvetica", "Arial", sans-serif;
+$family-sans-serif: "Inter", "Inter","Helvetica", "Arial", sans-serif;
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
-$primary: gray;
-$primary-invert: $pink-invert;
+$primary: #ddd;
+$primary-invert: #333;
 
 
 @import "../node_modules/bulma/bulma";
 
 // 4. Import the rest of Bulma
 .title.is-2 {
-	font-size: 6rem;
+	font-family: "Barlow Semi Condensed";
+	font-size: 7rem;
 	letter-spacing: -2px;
 }
 
 .subtitle.is-4{
-	font-size: 2rem;
+	font-family: "Barlow";
+	font-size: 1.9rem;
 }
 
 body{
-	font-size: 1.4rem;
+	font-size: 1.5rem;
+}
+
+.eva {
+	color: gray;
+	width: 36px;
+	height:36px;
+}
+
+.content h2 {
+	font-family: "Barlow";
+	font-size: 3rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.content h3 {
+	font-family: "Barlow";
+	font-size: 2rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+a {
+	color: black;
+}
+
+.italy{
+	position: relative;
+	align-self: center;
+	bottom: -10px;
+	height: 20px;
+	width: 250px;
+	background:linear-gradient(to right, #009246 0, #009246 33%, #FFF 33%, #FFF 66%, #ce2b37 66%, #ce2b37 100%); 
+}
+
+.hero-body {
+	padding-bottom: 4rem !important;
+}
+
+.section {
+	padding-top: 6rem !important;
 }
