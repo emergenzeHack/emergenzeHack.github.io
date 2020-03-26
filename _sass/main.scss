@@ -16,7 +16,7 @@ $blue: #06bcef;
 $pink: #ff8080;
 $pink-invert: #fff;
 // Update the sans-serif font family
-$family-sans-serif: monospace,"Inter","Helvetica", "Arial", sans-serif;
+$family-sans-serif: "Inter", "Inter","Helvetica", "Arial", sans-serif;
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
@@ -28,14 +28,33 @@ $primary-invert: $pink-invert;
 
 // 4. Import the rest of Bulma
 .title.is-2 {
-	font-size: 6rem;
+	font-family: "Barlow Semi Condensed";
+	font-size: 7rem;
 	letter-spacing: -2px;
 }
 
 .subtitle.is-4{
-	font-size: 2rem;
+	font-family: "Barlow";
+	font-size: 1.9rem;
 }
 
 body{
-	font-size: 1.4rem;
+	font-size: 1.5rem;
+}
+
+.eva {
+	color: gray;
+	width: 36px;
+	height:36px;
+}
+
+h3,h2 {
+	font-family: "Barlow";
+	font-size: 2rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+a {
+	color: black;
 }
