@@ -38,4 +38,4 @@ npm run deploy-gh
 
 ## Copyright and license
 
-Initial templated based on [bulma-start]](https://github.com/jgthms/bulma-start/).
+Initial templated based on [bulma-start](https://github.com/jgthms/bulma-start/).
