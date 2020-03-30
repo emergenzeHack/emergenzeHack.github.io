@@ -23,23 +23,36 @@ $family-sans-serif: "Inter", "Inter","Helvetica", "Arial", sans-serif;
 $primary: #ddd;
 $primary-invert: #333;
 
+$min_width: 320px;
+$max_width: 1200px;
+$min_font: 72px;
+$max_font: 120px;
 
 @import "../node_modules/bulma/bulma";
 
 // 4. Import the rest of Bulma
 .title.is-2 {
 	font-family: "Barlow Semi Condensed";
-	font-size: 7rem;
+	font-size: 80px;
 	letter-spacing: -2px;
+	word-wrap: break-word;
 }
 
+@media screen and (max-width: 576px) {
+	.title.is-2 {
+	font-family: "Barlow Semi Condensed";
+	font-size: 14vw;
+	letter-spacing: -2px;
+	word-wrap: break-word;
+}
+}
 .subtitle.is-4{
 	font-family: "Barlow";
 	font-size: 1.9rem;
 }
 
 body{
-	font-size: 1.5rem;
+	font-size: 1.35rem;
 }
 
 .eva {
