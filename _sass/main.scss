@@ -36,6 +36,7 @@ $max_font: 120px;
 	font-size: 80px;
 	letter-spacing: -2px;
 	word-wrap: break-word;
+	filter: drop-shadow(1px 5px 4px #3c3c3c20);
 }
 
 @media screen and (max-width: 576px) {
@@ -49,6 +50,7 @@ $max_font: 120px;
 .subtitle.is-4{
 	font-family: "Barlow";
 	font-size: 1.9rem;
+	letter-spacing: -0.1px;
 }
 
 body{
