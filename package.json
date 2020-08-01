@@ -65,7 +65,7 @@
     "deploy": "npm run css-deploy && npm run js-build",
     "js-build": "babel _javascript --out-dir lib",
     "js-watch": "npm run js-build -- --watch",
-    "start": "npm-run-all --parallel css-watch js-watch",
+    "start": "npm-run-all css-watch js-watch",
     "deploy-gh": "npm run deploy && npx gh-pages -d . -b master"
   },
   "version": "0.0.3",
