@@ -40,7 +40,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015-ie": "^6.7.0",
     "bulma": "^0.7.2",
-    "node-sass": "^4.11.0",
+    "dart-sass": "^1.25.0",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.1"
   },
@@ -58,7 +58,7 @@
     "url": "git+https://github.com/jgthms/bulma-start.git"
   },
   "scripts": {
-    "css-build": "node-sass _sass/main.scss css/main.css",
+    "css-build": "dart-sass _sass/main.scss css/main.css",
     "css-deploy": "npm run css-build && npm run css-postcss",
     "css-postcss": "postcss --use autoprefixer --output css/main.css css/main.css",
     "css-watch": "npm run css-build -- --watch",
